@@ -38,6 +38,7 @@ Applications where AI is the primary interface for creating and refining written
 - [Writesonic](https://writesonic.com/) — AI platform for content generation and SEO-focused writing.
 - [Notion AI](https://www.notion.so/product/ai) — Integrated AI writing and editing within a knowledge workspace.
 - [Sudowrite](https://www.sudowrite.com/) — AI writing assistant for creative and narrative content.
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## AI for Coding & Development
 
