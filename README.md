@@ -73,6 +73,7 @@ Applications focused on autonomous or semi-autonomous task execution.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Experimental autonomous AI agent framework.
 - [AgentGPT](https://agentgpt.reworkd.ai/) — Browser-based platform for deploying autonomous agents.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — Minimal AI task management system using agents.
+- [Orkas](https://orkas.ai/?source=gh_ainative) — Open-source, local-first desktop workspace where a Commander plans goals and coordinates specialist AI agents.
 - [Superagent](https://github.com/homanp/superagent) — Platform for building and deploying AI agents.
 
 ## Platforms & Builders
